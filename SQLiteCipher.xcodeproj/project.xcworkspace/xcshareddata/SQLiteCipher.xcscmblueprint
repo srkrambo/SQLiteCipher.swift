@@ -1,15 +1,20 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8FAAF7D7040E22EA06EF9AD0ABDC9E6838C80A87",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : 0,
-    "3AE8ED2E684071AF4FB151FA51BF266B82FF45BD" : 0
+    "8FAAF7D7040E22EA06EF9AD0ABDC9E6838C80A87" : 0,
+    "B079B1310DA60269FDF7FE43113E88729F872128" : 0,
+    "3AE8ED2E684071AF4FB151FA51BF266B82FF45BD" : 0,
+    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F07EF1C-12ED-48E1-900B-0D35ECCF670B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : "SQLiteCipher.swift\/Vendor\/sqlcipher\/",
-    "3AE8ED2E684071AF4FB151FA51BF266B82FF45BD" : "SQLiteCipher.swift\/Vendor\/SQLite.swift\/"
+    "8FAAF7D7040E22EA06EF9AD0ABDC9E6838C80A87" : "SQLiteCipher.swift\/",
+    "B079B1310DA60269FDF7FE43113E88729F872128" : "",
+    "3AE8ED2E684071AF4FB151FA51BF266B82FF45BD" : "SQLiteCipher.swift\/Vendor\/SQLite.swift\/",
+    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : "SQLiteCipher.swift\/Vendor\/sqlcipher\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "SQLiteCipher",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -24,6 +29,16 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sqlcipher\/sqlcipher.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/srkrambo\/SQLiteCipher.swift",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FAAF7D7040E22EA06EF9AD0ABDC9E6838C80A87"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wordset\/wordset-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B079B1310DA60269FDF7FE43113E88729F872128"
     }
   ]
 }
